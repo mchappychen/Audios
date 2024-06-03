@@ -8,7 +8,7 @@ Waiting prompt:
 "Awaiting user input before code execution can proceed."
 
 Start:
-"Code execution has begun; starting web scraping."
+"Code execution has begun."
 
 Finished:
 "code execution completed."
