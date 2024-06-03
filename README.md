@@ -11,7 +11,7 @@ Start:
 "Code execution has begun; starting web scraping."
 
 Finished:
-"Web scraping code execution completed."
+"code execution completed."
 
 Words:
 ```
