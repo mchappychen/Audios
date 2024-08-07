@@ -15,7 +15,7 @@ Finished:
 
 relevant words:
 ```
-Alert,All,Attention,bee,Begun,cease,code,closed,commencing,send,complete,completed,console,check,control,data,detected,end,enter,error,eta,estimated,every,failed,failure,finished,for,information,malfunction,mode,name,process,progress,ready,report,result,terminated,warning,start,started,starting,stopped,successfully
+Alert,All,Attention,been,Begun,cease,code,closed,commencing,send,complete,completed,console,check,control,data,detected,end,enter,error,eta,estimated,every,failed,failure,finished,for,information,malfunction,mode,name,process,progress,ready,report,result,terminated,warning,start,started,starting,stopped,successfully
 ```
 
 
